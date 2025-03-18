@@ -1,5 +1,5 @@
 //Guessing Number GAME
-
+//this is modified some what
 import java.util.Scanner;
 import java.util.Random;
 
